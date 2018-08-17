@@ -1,0 +1,8 @@
+# blacklist
+*
+
+# whitelist
+!.gitignore
+!LICENSE
+!README.md
+!db.json
