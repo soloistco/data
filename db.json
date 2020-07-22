@@ -1,16 +1,64 @@
 {
-  "data": [
+  "options": [
+    [
+      {
+        "title": "option a",
+        "text": "option a",
+        "icon": "http://www.google.com/",
+        "value": "a",
+      },
+      {
+        "title": "option b",
+        "text": "option b",
+        "icon": "http://www.google.com/",
+        "value": "b",
+      },
+      {
+        "title": "option c",
+        "text": "option c",
+        "icon": "http://www.google.com/",
+        "value": "c",
+      },
+      {
+        "title": "option d",
+        "text": "option d",
+        "icon": "http://www.google.com/",
+        "value": "d",
+      }
+    ],
+    [
+      {
+        "title": "option a",
+        "text": "option a",
+        "icon": "http://www.google.com/",
+        "value": "a",
+      },
+      {
+        "title": "option b",
+        "text": "option b",
+        "icon": "http://www.google.com/",
+        "value": "b",
+      },
+      {
+        "title": "option c",
+        "text": "option c",
+        "icon": "http://www.google.com/",
+        "value": "c",
+      },
+      {
+        "title": "option d",
+        "text": "option d",
+        "icon": "http://www.google.com/",
+        "value": "d",
+      }
+    ]
+  ],
+  "answers": [
     {
-      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
-      "link": "http://www.saipem.com"
-    },
-    {
-      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
-      "link": "http://www.saipem.com"
-    },
-    {
-      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
-      "link": "http://www.saipem.com"
+      "title": "option d",
+      "text": "option d",
+      "icon": "http://www.google.com/",
+      "value": "d",
     }
   ]
 }
