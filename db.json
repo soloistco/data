@@ -1,17 +1,19 @@
-[
-  {
-    "category-2": 1,
-    "gender-2": 99,
-    "range-1": 2
-  },
-  {
-    "pagination": {
-      "count": 200,
-      "limit": 6,
-      "offset": 0,
-      "current_page": 2,
-      "total_pages": 3
+{
+  "product": [
+    {
+      "category-2": 1,
+      "gender-2": 99,
+      "range-1": 2
     },
-    "items": "<div class=\"gtx-catalog-product--item\"><div class=\"gtx-catalog-product--item__photo\"><img class=\"gtx-catalog-product--item__image\" srcset=\"https://www.placehold.it/446x446/f2f3f4/aaa/, https://www.placehold.it/892x892/f2f3f4/aaa/ 2x\"><img class=\"gtx-catalog-product--item__logo\" src=\"https://www.placehold.it/200x200/f2f3f4/aaa/\"></div><div class=\"gtx-catalog-product--item__info\"><h3 class=\"gtx-catalog-product--item__brand\">ARC'TERYX</h3><h2 class=\"gtx-catalog-product--item__name\"><a href=\"\">MEN'S BETA SL HYBRID JACKET</a></h2><h4 class=\"gtx-catalog-product--item__material\">GORE C-KNIT™</h4><div class=\"gtx-catalog-product--item__range\"><img src=\"https://www.placehold.it/96x96/f2f3f4/aaa/\"><strong>GORE-TEX© PRO</strong></div><div class=\"gtx-catalog-product--item__description\"><p>The Alpha AR is a versatile, efficient GORE-TEX shell jacket that performs across a range of conditions. Light, durable N40p-X 3L GORE-TEX Pro delivers durable waterproof, windproof, breathable performance.</p></div><div class=\"gtx-catalog-product--item__retailers\"><h5>BUY ONLINE</h5><a href=\"https://www.gore.com\" target=\"_blank\">ARCTERYX.COM</a><div class=\"gtx-catalog-product--item__links\"><button type=\"button\" data-js=\"buy\"><span>CHOOSE RETAILER</span><svg class=\"icon\"><use xlink:href=\"/dist/img/sprite/sprite.svg#arrow-left\"></use></svg></button><ul><li><a href=\"https://www.gore.com\" target=\"_blank\">AMAZON.DE</a></li><li><a href=\"https://www.gore.com\" target=\"_blank\">BERGFREUNDE.DE</a></li></ul></div></div></div></div>"
-  }
-]
+    {
+      "pagination": {
+        "count": 200,
+        "limit": 6,
+        "offset": 0,
+        "current_page": 2,
+        "total_pages": 3
+      },
+      "items": "<div class=\"gtx-catalog-product--item\"><div class=\"gtx-catalog-product--item__photo\"><img class=\"gtx-catalog-product--item__image\" srcset=\"https://www.placehold.it/446x446/f2f3f4/aaa/, https://www.placehold.it/892x892/f2f3f4/aaa/ 2x\"><img class=\"gtx-catalog-product--item__logo\" src=\"https://www.placehold.it/200x200/f2f3f4/aaa/\"></div><div class=\"gtx-catalog-product--item__info\"><h3 class=\"gtx-catalog-product--item__brand\">ARC'TERYX</h3><h2 class=\"gtx-catalog-product--item__name\"><a href=\"\">MEN'S BETA SL HYBRID JACKET</a></h2><h4 class=\"gtx-catalog-product--item__material\">GORE C-KNIT™</h4><div class=\"gtx-catalog-product--item__range\"><img src=\"https://www.placehold.it/96x96/f2f3f4/aaa/\"><strong>GORE-TEX© PRO</strong></div><div class=\"gtx-catalog-product--item__description\"><p>The Alpha AR is a versatile, efficient GORE-TEX shell jacket that performs across a range of conditions. Light, durable N40p-X 3L GORE-TEX Pro delivers durable waterproof, windproof, breathable performance.</p></div><div class=\"gtx-catalog-product--item__retailers\"><h5>BUY ONLINE</h5><a href=\"https://www.gore.com\" target=\"_blank\">ARCTERYX.COM</a><div class=\"gtx-catalog-product--item__links\"><button type=\"button\" data-js=\"buy\"><span>CHOOSE RETAILER</span><svg class=\"icon\"><use xlink:href=\"/dist/img/sprite/sprite.svg#arrow-left\"></use></svg></button><ul><li><a href=\"https://www.gore.com\" target=\"_blank\">AMAZON.DE</a></li><li><a href=\"https://www.gore.com\" target=\"_blank\">BERGFREUNDE.DE</a></li></ul></div></div></div></div>"
+    }
+  ]
+}
